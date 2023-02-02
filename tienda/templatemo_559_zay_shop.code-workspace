@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../TRABAJO PLANTILLAS/ROPA/002 ROPA/templatemo_559_zay_shop"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../098 ANDREA PORTAFOLIO PROBLEMAS"
+		},
+		{
+			"path": "../../../../react_vite"
+		},
+		{
+			"path": "../../../elements-examples"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "elements-examples"
+	}
+}

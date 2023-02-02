@@ -1,0 +1,23 @@
+{
+  "name": "moxaca-web",
+  "version": "1.0.0",
+  "description": "Esta página ha sido creada a través de la obtención del Beneficio **Participa de un Proyecto Real**, ofrecido por **CoderHouse** a sus alumnos destacados.\r El mismo es un programa 100% virtual y consiste en la asignación de un trabajo Freelance (temporal) en el que se espera que se pueda cumplir con las necesidades y objetivos de los emprendimientos, fundaciones, organizaciones o empresas que requieran el servicio.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimenaCambronero/BienestarSalud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimenaCambronero/BienestarSalud/issues"
+  },
+  "homepage": "https://github.com/JimenaCambronero/BienestarSalud#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
