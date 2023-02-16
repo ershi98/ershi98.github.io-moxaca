@@ -221,7 +221,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/assets/mainBackground.jpg');
+    background: url('../assets/mainBackground.jpg');
     background-position: center;
     background-size: cover;
 }
